@@ -1,3 +1,4 @@
 # Wikiology
-Simple wiki software written in C#, VB.NET and VBScript (ASP classic).
-It stores data in MS Access and files.
+I want to develop this, because i've created a challenge for me (and others).
+This challenge is: **Write a Wiki software using MS technologies, including ASP and ASP.NET, OLEDB, ADO.NET,
+Access, C#, VB.NET and Windows.**
